@@ -23,7 +23,9 @@ Clicking the Delete button will prompt a warning message to appear, and give the
 Delete Deck Prompt:
 
 When the user clicks on the Delete button associated with a particular deck, a warning message is shown. The user can either click OK or Cancel. If the user clicks OK, the deck is deleted and will no longer be visible on the Home page.
+
 Screenshots
+
 <img width="819" alt="Screenshot 2023-11-17 at 1 05 12 PM" src="https://github.com/marinavira/flashcard-app/assets/110267019/d3e85f65-2d8e-4cba-8102-697327ab9a37">
 <img width="837" alt="Screenshot 2023-11-17 at 1 04 58 PM" src="https://github.com/marinavira/flashcard-app/assets/110267019/bb7f5ced-5a51-4273-8081-8ac8c1050ef9">
 <img width="841" alt="Screenshot 2023-11-17 at 1 04 49 PM" src="https://github.com/marinavira/flashcard-app/assets/110267019/eb8f719b-bba6-481b-9f79-d7b1ea1925f4">
